@@ -1,0 +1,27 @@
+[hoq, how] -> how
+[mkr, make] -> make
+[choclate, chocolate] -> chocolate
+[cak, cake] -> cake
+[Artifical, Artifishal, Artifishel, Artifichal, Atificial] -> artificial  
+[Inteligence, Intellagence, Intelligance, Intelegence, Intellegince] -> intelligence  
+[technolgy, techonlogy, tecnology, technollogy, technoligy] -> technology  
+[comptuer, compuer, computr, copmuter, comuter] -> computer  
+[sytems, systms, systeam, sytem, sysstems] -> systems  
+[mashines, machnes, machinies, macines, machies] -> machines  
+[capablities, capibilites, capebilities, capabilties, capabilites] -> capabilities  
+[probelms, problms, prblems, problmes] -> problems  
+[decisons, descisions, decitions, dicisions, desicions] -> decisions  
+[understad, undrstand, understaind, undersand, understnd] -> understand  
+[genrate, geneerate, genreate, generat, genarate] -> generate  
+[langauge, langugage, languge, langwage, lnaguage] -> language  
+[fuction, functon, funtion, funcion, functoin] -> function  
+[intervension, intevention, intervetion, intervenion, intrvention] -> intervention  
+[developement, develpment, devlopment, developmnt, develepment] -> development  
+[inteligent, intellagent, intelligant, intellegent, intelegent] -> intelligent  
+[experimant, expirement, experimnt, experement, experement] -> experiment  
+[acuracy, accurracy, accurcy, accurasy, accuarcy] -> accuracy  
+[predictin, predction, predicton, pridiction, predicshun] -> prediction  
+[gola, goul, gole, gaol, gol] -> goal  
+[humen, humon, hueman, hman, humaan] -> human  
+[lern, larn, leern, lrean, leanr] -> learn  
+[lk, likk, lik, link, loke, lake] -> like
