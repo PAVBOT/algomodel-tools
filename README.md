@@ -1,16 +1,29 @@
-# Algo model tools
-CC BY ND NC 4.0 INTERNATIONAL : LICENSE
-BY: The AI or tool developed by the user of AM TOOLS should mention 'build using algo model tools' anywhere in the page the term is that it should be visible and readable by any.
-The tools should be not claimed as their own!
-The tools should not be used in unethical project or modified to mimic a software and in the back as a malware!
-The tools should not be sold individually!
-These 3 things should not be done and
-The tools can be used by anyone for free!
-The tools can be used in any project!
-The tool made by these tools can be commercial! But if it crosses 1 mill INR 15% commision.
-The tools are open source!
-## Tools
-CA-NLP: A nlp build using node.js, the nlp performs quite well when trained it gives 100% accuracy for now 67.79% on Artficial intelligence topic [Trained on that] {Artifical Inteligence (AI) is a tehnolgy that givs compter sytems or mashines the capabilties of humn inteligance. Throuhg AI, mashins can larn, slove prblems, mke decisons and evn undrstand and genrate languge. The gol of AI is to crete sytems that can funtion withot humn intervension.
-} <-This one
-CA-PROBABLITY: The probablity lib uses node and is used by CA NLP to make decisions.
-CA-VECTOR: The vector lib.
+# Algo Model Tools 1.0.2 (Beta Version)
+
+The latest version of **Algo Model Tools (AMT)** is here!  
+We've just released **version 1.0.2**, packed with exciting new features and improvements.  
+Upgrade now for a **better, faster, and more efficient** experience!  
+
+## 🚀 What's New?  
+
+### 1️⃣ **AMT NLP (Natural Language Processing)**  
+- **Improved accuracy:** Now achieving **14.70% accuracy** with just a **5KB dataset**.  
+- **Smarter corrections:** AI now **fixes spelling errors** (e.g., "gols" → "goals") with **cleaner and more reliable** results.  
+
+### 2️⃣ **Freq! (Word Frequency & Summarization Library)**  
+- A brand-new library for **analyzing word frequency, detecting strong words, and summarizing text**.  
+- **Uses TF-IDF technique** to extract key phrases effectively.  
+
+### 3️⃣ **AMT CXXD (Context Detector)**  
+- **New feature!** CXXD can now **detect the context of a given text** with improved accuracy.  
+
+---
+
+## 📌 **Technical Footnotes**  
+- **Algo Model Tools** rely on **Node.js dependencies** like `fs` and `readline`.  
+- **All libraries are built from scratch** using **Vanilla JavaScript**—no external frameworks!  
+- Developed by **PY-DEV (Pawan Yadav)**, CEO of **Powered Intelligence, India**.  
+
+---
+
+### 🇮🇳 **Proudly Made in India**  :D
